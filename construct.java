@@ -1,3 +1,4 @@
+package training;
 class employee{
 private String name;
 private int id;
